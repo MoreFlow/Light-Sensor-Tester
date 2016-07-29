@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Light Sensor Tester</string>
+    <string name="vendor_text">"Vendor: "</string>
+    <string name="version_text">"Version: "</string>
+    <string name="power_text">"Power: "</string>
+    <string name="resolution_text">"Resolution: "</string>
+    <string name="delay_text">Delay: %d ms</string>
+    <string name="sensor_detect_error">Sensor not detected</string>
+</resources>
